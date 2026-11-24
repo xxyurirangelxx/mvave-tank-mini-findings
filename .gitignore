@@ -1,0 +1,8 @@
+# Arquivos temporários e privados
+backups/
+*.bin
+*.fwsc
+*.atkm
+*.log
+.DS_Store
+Thumbs.db
